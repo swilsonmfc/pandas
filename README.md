@@ -1,5 +1,6 @@
 # Pandas
 
 ## Week 1
-* ![](1_intro.ipynb)
-* ![](worldcities.csv)
+* ![Intro](1_Intro.ipynb)
+* ![Assignment](1_Assignment.ipynb)
+* ![DataFile](worldcities.csv)
