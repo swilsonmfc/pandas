@@ -7,6 +7,6 @@
 * [DataFile](worldcities.csv)
 
 ## Week 2
-* [Intro](2_Lesson.ipynb)
+* [Lesson](2_Lesson.ipynb)
 * [Assignment](2_Assignment.ipynb)
 * [DataFile](worldcities.csv)
