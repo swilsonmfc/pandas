@@ -3,8 +3,8 @@
 ## Week 1 - Introduction
 * [Intro](1_Intro.ipynb)
 * [Assignment](1_Assignment.ipynb)
-* [Solution](1_Solution.ipynb)
 * [DataFile](worldcities.csv)
+* [Solution](1_Solution.ipynb)
 
 ## Week 2 - Series, DataFrames, loc & iloc
 * [Lesson](2_Lesson.ipynb)
