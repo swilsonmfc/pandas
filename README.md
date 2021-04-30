@@ -10,3 +10,9 @@
 * [Lesson](2_Lesson.ipynb)
 * [Assignment](2_Assignment.ipynb)
 * [DataFile](worldcities.csv)
+* [Solution](2_Solution.ipynb)
+
+## Week 3
+* [Lesson](3_Lesson.ipynb)
+* [Assignment](3_Assignment.ipynb)
+* [DataFile](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
