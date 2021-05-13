@@ -16,3 +16,10 @@
 * [Lesson](3_Lesson.ipynb)
 * [Assignment](3_Assignment.ipynb)
 * [DataFile](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+* [Solution](3_Solution.ipynb)
+
+## Week 4 - Aggregations, Split-Apply-Combine, Pivots
+* [Lesson](4_Lesson.ipynb)
+* [Assignment](4_Assignment.ipynb)
+* [DataFile](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/)
+* [Solution](4_Solution.ipynb)
