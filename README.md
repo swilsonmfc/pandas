@@ -23,3 +23,8 @@
 * [Assignment](4_Assignment.ipynb)
 * [DataFile](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/)
 * [Solution](4_Solution.ipynb)
+
+## Week 5 - Exploratory Data Analysis
+* [Lesson](5_Lesson.ipynb)
+* [Assignment](5_Assignment.ipynb)
+* [DataFile](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/tips.csv)
