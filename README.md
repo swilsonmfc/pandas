@@ -28,3 +28,10 @@
 * [Lesson](5_Lesson.ipynb)
 * [Assignment](5_Assignment.ipynb)
 * [DataFile](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/tips.csv)
+* [Solution](5_Solution.ipynb)
+
+## Week 6 - Data Cleaning
+* [Lesson](6_Lesson.ipynb)
+* [Assignment](6_Assignment.ipynb)
+* [DataFile](hotel.zip)
+* [Solution](6_Solution.ipynb)
