@@ -26,7 +26,7 @@
 
 ## Week 5 - Exploratory Data Analysis
 * [Lesson](5_Lesson.ipynb)
-* [Assignment](5_Assignment.ipynb)
+* [Assignment](5_Homework.ipynb)
 * [DataFile](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/tips.csv)
 * [Solution](5_Solution.ipynb)
 
