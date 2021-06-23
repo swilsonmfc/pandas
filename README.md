@@ -32,6 +32,6 @@
 
 ## Week 6 - Data Cleaning
 * [Lesson](6_Lesson.ipynb)
-* [Assignment](6_Assignment.ipynb)
+* [Assignment](6_Homework.ipynb)
 * [DataFile](hotel.zip)
 * [Solution](6_Solution.ipynb)
