@@ -42,7 +42,7 @@
 * [DataFile](hotel.zip)
 * [Solution](7_Solution.ipynb)
 
-## Week 6 - Logistic Regression & Scikit-Learn
+## Week 8 - Logistic Regression & Scikit-Learn
 * [Lesson](8_Lesson.ipynb)
 * [Assignment](8_Homework.ipynb)
 * [DataFile](hotel.zip)
