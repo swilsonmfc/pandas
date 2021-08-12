@@ -48,7 +48,7 @@
 * [DataFile](hotel.zip)
 * [Solution](8_Solution.ipynb)
 
-## Week 8 - Logistic Regression & Scikit-Learn
+## Week 9 - Text Processing 
 * [Lesson](9_Lesson.ipynb)
 * [Assignment](9_Homework.ipynb)
 * [DataFile](hotel.zip)
