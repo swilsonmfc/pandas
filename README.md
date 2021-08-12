@@ -51,5 +51,5 @@
 ## Week 9 - Text Processing 
 * [Lesson](9_Lesson.ipynb)
 * [Assignment](9_Homework.ipynb)
-* [DataFile](hotel.zip)
+* [DataFile](trulia.zip)
 * [Solution](9_Solution.ipynb)
