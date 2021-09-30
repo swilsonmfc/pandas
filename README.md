@@ -53,3 +53,15 @@
 * [Assignment](9_Homework.ipynb)
 * [DataFile](trulia.zip)
 * [Solution](9_Solution.ipynb)
+
+## Week 10 - Time Series
+* [Lesson](10_Lesson.ipynb)
+* [Assignment](10_Homework.ipynb)
+* [Solution](10_Solution.ipynb)
+
+## Week 11 - Geospatial
+* [Lesson](11_Lesson.ipynb)
+* [Assignment](11_Homework.ipynb)
+* [Dataset](https://catalog.data.gov/dataset/police-incidents)
+* [Dataset](https://data.townofcary.org/explore/dataset/httpmapstownofcary0/export/)
+* [Solution](11_Solution.ipynb)
